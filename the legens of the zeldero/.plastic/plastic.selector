@@ -1,0 +1,4 @@
+repository "the legens of the seldero Assets/the legens of the zeldero@4674003430699@cloud"
+  path "/"
+    br "/main"
+    co "/main"
